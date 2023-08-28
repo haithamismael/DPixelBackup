@@ -1,0 +1,242 @@
+{
+  "channels": [
+ 
+    {
+        "id" : 1,
+      "title": "MBC 1",
+      "url": "https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_1.m3u8",
+      "img": ""
+    },
+    {
+        "id" : 2,
+      "title": "MBC 2",
+      "url": "https://koraflix.online:25463/hjNsLHEVxgm9gmRX/15_.m3u8",
+      "img": ""
+    },
+    {
+            "id" : 3,
+      "title": "MBC 3",
+      "url": "https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_6.m3u8",
+      "img": ""
+    },
+    {
+            "id" : 4,
+      "title": "MBC 5",
+      "url": "https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8",
+      "img": ""
+    },
+    {
+            "id" : 5,
+      "title": "MBC Masr",
+      "url": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
+      "img": ""
+    },
+    {
+            "id" : 6,
+      "title": "MBC Masr 2",
+      "url": "https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8",
+      "img": ""
+    },
+     {
+            "id" : 7,
+      "title": "MBC Iraq",
+      "url": "https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_6.m3u8",
+      "img": ""
+    }
+    ,
+     {
+            "id" : 8,
+      "title": "MBC Max",
+      "url": "https://koraflix.online:25463/hjNsLHEVxgm9gmRX/13_.m3u8",
+      "img": ""
+    }   ,
+     {
+            "id" : 9,
+      "title": "MBC Bollywood",
+      "url": "https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_6.m3u8",
+      "img": ""
+    }   ,
+     {
+            "id" : 10,
+      "title": "MBC Drama",
+      "url": "https://shls-live-ak.akamaized.net/out/v1/8dde0be593a94d819094a81ee624039c/index_6.m3u8",
+      "img": ""
+    },
+     {
+            "id" : 11,
+      "title": "MBC Drama +",
+      "url": "https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_6.m3u8",
+      "img": ""
+    }
+        ,
+     {
+            "id" : 12,
+      "title": "SBC",
+      "url": "https://x.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/121_.m3u8",
+      "img": ""
+    }   ,
+     {
+            "id" : 13,
+      "title": "Rotana Cinema",
+      "url": "https://koraflix.online:25463/hjNsLHEVxgm9gmRX/12_.m3u8",
+      "img": ""
+    }
+    ,
+     {
+            "id" : 14,
+      "title": "Rotana Khalijia",
+      "url": "https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_6.m3u8",
+      "img": ""
+    }
+    ,
+     {
+            "id" : 15,
+      "title": "CN Network",
+      "url": "https://cartoon-network-prod-dub-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_6.m3u8",
+      "img": ""
+    }
+      ,
+     {
+            "id" : 16,
+      "title": "Spacetoon",
+      "url": "https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_6.m3u8",
+      "img": ""
+    } 
+     ,
+     {
+         "id" : 17,
+         "title" : "Bahrain TV" ,
+         "url" : "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 18,
+         "title" : "Jordan TV" ,
+         "url" : "https://jrtv-live.ercdn.net/jordanhd/jordanhd_480p.m3u8",
+         "img" : ""
+     }
+    ,
+     {
+         "id" : 19,
+         "title" : "AlArabiya" ,
+         "url" : "https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_33.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 20,
+         "title" : "AlHadath" ,
+         "url" : "https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_6.m3u8",
+         "img" : ""
+     }
+    ,
+     {
+         "id" : 21,
+         "title" : "Dubai TV" ,
+         "url" : "https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 22,
+         "title" : "Qatar TV" ,
+         "url" : "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master576p.m3u8",
+         "img" : ""
+     }
+         ,
+     {
+         "id" : 23,
+         "title" : "Shahid Khaleji" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Khaleeji_/index_hls.m3u8",
+         "img" : ""
+     }
+
+    ,
+     {
+         "id" : 24,
+         "title" : "Shahid Tash" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Tash_/index_hls.m3u8",
+         "img" : ""
+     }
+
+    ,
+     {
+         "id" : 25,
+         "title" : "Shahid AlHayba" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Al_Hayba/index_hls.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 26,
+         "title" : "Shahid Style" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Style_/index_hls.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 27,
+         "title" : "Shahid Korean" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Korean-/index_hls.m3u8",
+         "img" : ""
+     }
+ 
+   ,
+     {
+         "id" : 32,
+         "title" : "Shahid Comedy" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8",
+         "img" : ""
+     }
+
+    ,
+     {
+         "id" : 30,
+         "title" : "Shahid Turkish" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Turki_/index_hls.m3u8",
+         "img" : ""
+     }
+
+    ,
+     {
+         "id" : 31,
+         "title" : "Shahid Makaleb" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8",
+         "img" : ""
+     }
+
+ 
+           ,
+     {
+         "id" : 28,
+         "title" : "Shahid Masr" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls.m3u8",
+         "img" : ""
+     }
+         ,
+     {
+         "id" : 29,
+         "title" : "Shahid AlSham" ,
+         "url" : "https://cdxaws-ak.akamaized.net/v1/channel/Al_Sham--/index_hls.m3u8",
+         "img" : ""
+     }
+   ,
+     {
+         "id" : 33,
+         "title" : "OSN Movies " ,
+         "url" : "https://koraflix.online:25463/hjNsLHEVxgm9gmRX/202_.m3u8",
+         "img" : ""
+     }
+      ,
+     {
+         "id" : 34,
+         "title" : "OSN Action Movies " ,
+         "url" : "https://koraflix.online:25463/hjNsLHEVxgm9gmRX/200_.m3u8",
+         "img" : ""
+     }
+
+
+   
+  ]
+}

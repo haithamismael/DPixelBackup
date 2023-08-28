@@ -1,0 +1,235 @@
+{
+  "channels": [
+
+    {
+        "id" : 1,
+      "title": "Bein Sports 1",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/40_.m3u8",
+      "img": ""
+    },
+    {
+        "id" : 2,
+      "title": "Bein Sports 2",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/38_.m3u8",
+      "img": ""
+    },
+    {
+            "id" : 3,
+      "title": "Bein Sports 3",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/36_.m3u8",
+      "img": ""
+    },
+    {
+            "id" : 4,
+      "title": "Bein Sports 4",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/1_.m3u8",
+      "img": ""
+    },
+    {
+            "id" : 5,
+      "title": "Bein Sports 4 Backup",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/225_.m3u8",
+      "img": ""
+    },
+    {
+            "id" : 6,
+      "title": "Bein Sports 5",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/32_.m3u8",
+      "img": ""
+    },
+     {
+            "id" : 7,
+      "title": "Bein Sports 6",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/30_.m3u8",
+      "img": ""
+    }
+    ,
+     {
+            "id" : 8,
+      "title": "Bein Premium 1",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/131_.m3u8",
+      "img": ""
+    }   ,
+     {
+            "id" : 9,
+      "title": "Bein Premium 1 HD",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/131_.m3u8",
+      "img": ""
+    }   ,
+     {
+            "id" : 10,
+      "title": "Bein Premium 2",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/127_.m3u8",
+      "img": ""
+    },
+     {
+            "id" : 11,
+      "title": "Bein Premium 2 HD",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/134_.m3u8",
+      "img": ""
+    }
+        ,
+     {
+            "id" : 12,
+      "title": "Bein Premium 3",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/128_.m3u8",
+      "img": ""
+    }   ,
+     {
+            "id" : 13,
+      "title": "Bein Premium 3 HD",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/135_.m3u8",
+      "img": ""
+    }
+    ,
+     {
+            "id" : 14,
+      "title": "Bein Extra 1",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/223_.m3u8",
+      "img": ""
+    }
+    ,
+     {
+            "id" : 15,
+      "title": "Bein Extra 2",
+      "url": "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/224_.m3u8",
+      "img": ""
+    }
+      ,
+     {
+            "id" : 16,
+      "title": "Bein 4K",
+      "url": "https://x.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/93_.m3u8",
+      "img": ""
+    } 
+     ,
+     {
+         "id" : 17,
+         "title" : "AD Sports 1" ,
+         "url" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 18,
+         "title" : "AD Sports 2" ,
+         "url" : "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+         "img" : ""
+     }
+    ,
+     {
+         "id" : 19,
+         "title" : "AD Sports Premium 1" ,
+         "url" : "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/217_.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 20,
+         "title" : "AlKass EX 1" ,
+         "url" : "https://x.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/203_.m3u8",
+         "img" : ""
+     }
+    ,
+     {
+         "id" : 21,
+         "title" : "AlKass EX 2" ,
+         "url" : "https://x.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/204_.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 22,
+         "title" : "Dubai Sports 1" ,
+         "url" : "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
+         "img" : ""
+     }
+         ,
+     {
+         "id" : 23,
+         "title" : "Dubai Sports 2" ,
+         "url" : "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8",
+         "img" : ""
+     }
+
+    ,
+     {
+         "id" : 24,
+         "title" : "Dubai Sports 3" ,
+         "url" : "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+         "img" : ""
+     }
+
+    ,
+     {
+         "id" : 25,
+         "title" : "Dubai Sports 3" ,
+         "url" : "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 26,
+         "title" : "ON Sports 1 HD" ,
+         "url" : "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/205_.m3u8",
+         "img" : ""
+     }
+       ,
+     {
+         "id" : 27,
+         "title" : "ON Sports 2 HD" ,
+         "url" : "https://x.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/206_.m3u8",
+         "img" : ""
+     }
+ 
+   ,
+     {
+         "id" : 32,
+         "title" : "SSC Extra 1" ,
+         "url" : "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/193_.m3u8",
+         "img" : ""
+     }
+
+    ,
+     {
+         "id" : 30,
+         "title" : "SSC 1" ,
+         "url" : "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/159_.m3u8",
+         "img" : ""
+     }
+
+    ,
+     {
+         "id" : 31,
+         "title" : "SSC 2" ,
+         "url" : "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8",
+         "img" : ""
+     }
+
+    ,
+     {
+         "id" : 33,
+         "title" : "SSC 3" ,
+         "url" : "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/147_.m3u8",
+         "img" : ""
+     }
+           ,
+     {
+         "id" : 28,
+         "title" : "SSC 4" ,
+         "url" : "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/178_.m3u8",
+         "img" : ""
+     }
+         ,
+     {
+         "id" : 29,
+         "title" : "SSC 5" ,
+         "url" : "https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/179_.m3u8",
+         "img" : ""
+     }
+
+
+
+   
+  ]
+}

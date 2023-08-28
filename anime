@@ -1,0 +1,40 @@
+{
+  "websites": [
+    {
+      "id": 18,
+      "title": "9ANIME",
+      "url": "https://9animetv.to",
+      "img": ""
+    },
+    {
+      "id": 20,
+      "title": "ANIME4UP",
+      "url": "https://w1.anime4up.tv",
+      "img": ""
+    },
+    {
+      "id": 21,
+      "title": "GOGOANIME",
+      "url": "https://www4.gogoanimes.fi",
+      "img": ""
+    },
+    {
+      "id": 14,
+      "title": "WITANIME",
+      "url": "https://witanime.com/",
+      "img": ""
+    },
+    {
+      "id": 15,
+      "title": "ANIME TITANS",
+      "url": "https://animetitans.net/",
+      "img": ""
+    },
+    {
+      "id": 16,
+      "title": "OKANIME",
+      "url": "https://www.okanime.tv/",
+      "img": ""
+    }
+  ]
+}
