@@ -1,12 +1,6 @@
 {
   "websites": [
 {
-      "id": 17,
-      "title": "Netfilm",
-      "url": "https://netfilm.app/",
-      "img": ""
-    },
-{
       "id": 16,
       "title": "TOP CINEMA",
       "url": "https://web.topcinema.cam/",
