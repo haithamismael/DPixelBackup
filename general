@@ -1,9 +1,21 @@
 {
   "websites": [
 {
+      "id": 19,
+      "title": "SERIES TIME",
+      "url": "https://ba.seriestime.cam/list/arabic-series/&page=1cat=moslslat-arabia",
+      "img": ""
+    },
+{
+      "id": 18,
+      "title": "FOSTA TV",
+      "url": "https://ww6.fosta-tv.com/moslslat.php?&page=1cat=moslslat-arabia",
+      "img": ""
+    },
+{
       "id": 17,
-      "title": "ShoofVod",
-      "url": "http://shoofvod.com/Cat-27-8",
+      "title": "DRAMAS7",
+      "url": "https://wwi.dramas7.com/category.php?cat=moslslat-arabia",
       "img": ""
     },
 {
