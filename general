@@ -1,6 +1,12 @@
 {
   "websites": [
 {
+      "id": 21,
+      "title": "ShoofMax",
+      "url": "https://shoofmax.com",
+      "img": ""
+    },
+{
       "id": 20,
       "title": "FMovies",
       "url": "https://fmoviesz.to/home",
