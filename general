@@ -1,6 +1,12 @@
 {
   "websites": [
 {
+      "id": 22,
+      "title": "Al Oula",
+      "url": "https://www.aloula.sa/ar/series",
+      "img": ""
+    },
+{
       "id": 21,
       "title": "ShoofMax",
       "url": "https://shoofmax.com",
