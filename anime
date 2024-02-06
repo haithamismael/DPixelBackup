@@ -1,7 +1,12 @@
 {
   "websites": [
 
-
+{
+      "id": 21,
+      "title": "XSANIME",
+      "url": "https://xsaniime.com",
+      "img": ""
+    },
     {
       "id": 18,
       "title": "9ANIME",
