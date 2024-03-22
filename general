@@ -1,6 +1,12 @@
 {
   "websites": [
 {
+      "id": 24,
+      "title": "Laroza",
+      "url": "https://g.laroza.net",
+      "img": ""
+    },
+{
       "id": 23,
       "title": "Al Mstba",
       "url": "https://vod.almstba.tv",
