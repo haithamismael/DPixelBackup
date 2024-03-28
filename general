@@ -1,6 +1,12 @@
 {
   "websites": [
 {
+      "id": 25,
+      "title": "Arab TV",
+      "url": "hd.arab-x.com",
+      "img": ""
+    },
+{
       "id": 24,
       "title": "Laroza",
       "url": "https://g.laroza.net",
